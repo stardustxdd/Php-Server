@@ -1,4 +1,4 @@
-# Server Project
+# StarDust PHP Server Project
 
 ## License
 
